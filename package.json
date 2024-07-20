@@ -1,20 +1,20 @@
 {
-  "name": "Phoenix-MD",
+  "name": "✪⏤͟͞𝞛r𝞖acker𝞘ordz⏤͟͞✪",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "pm2 start . --attach --name Phoenix-MD"
+      "start": "pm2 start . --attach --name 𝞛r𝞖acker𝞘ordz"
   },
   "keywords": [
    "termux",
    "whatsapp",
    "MD",
-   "Phoenix-MD",
+   "✪⏤͟͞𝞛r𝞖acker𝞘ordz⏤͟͞✪",
    "WhatsApp-MD",
-   "baileys-md",
+   "✪⏤͟͞𝞛r𝞖acker𝞘ordz⏤͟͞✪",
    "wa-bot",
    "bot",
    "bot-md",
